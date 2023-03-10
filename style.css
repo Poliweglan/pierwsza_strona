@@ -1,12 +1,36 @@
 body {
 	margin: 0;
-	background-color: darkkhaki;
+	background-color: #E9DCD3;
 	font-size: large;
-	color: brown;
 }
 
-#test {
-	width: 1000px;
+#container {
+	background-color: #DDBDA4;
 	margin-left: auto;
 	margin-right: auto;
+	width: 1000px;
+}
+
+header {
+	background-color: #B08267;
+}
+
+#logo {
+	height: 100px;
+	padding: 50px;
+	margin: 0 auto;
+	display: block;
+}
+
+article {
+	padding: 30px;
+}
+
+footer {
+	background-color: #B08267;
+}
+
+footer p {
+	padding: 20px;
+	text-align: center;
 }
