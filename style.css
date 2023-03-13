@@ -65,20 +65,20 @@ header {
 	padding: 20px 50px;
 }
 
-section {
+.art_cover {
 	padding: 0;
 	display: flex;
 	justify-content: center;
 }
 
-section img {
+.art_cover img {
 	border-radius: 30px;
 	width: 400px;
 	height: 400px;
 	object-fit: cover;
 }
 
-section article {
+.art_cover article {
 	margin: 20px 40px;
 	text-align: justify;
 }
