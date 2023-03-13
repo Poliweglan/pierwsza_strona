@@ -6,7 +6,7 @@ body {
 
 #container {
 	width: 1200px;
-	padding: 20px 0px;
+	padding: 0 50px 20px 50px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #ede2db;
@@ -61,10 +61,6 @@ header {
 	transition-duration: .2s;
 }
 
-#content {
-	padding: 20px 50px;
-}
-
 .art_cover {
 	padding: 0;
 	display: flex;
@@ -84,5 +80,7 @@ header {
 }
 
 h1 {
+	padding: 0;
+	margin: 0;
 	text-align: center;
 }
