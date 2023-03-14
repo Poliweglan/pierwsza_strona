@@ -68,7 +68,7 @@ header {
 .art_cover img {
 	border-radius: 30px;
 	width: 400px;
-	height: 600px;
+	height: 80vh;
 	object-fit: cover;
 }
 
